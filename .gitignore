@@ -1,0 +1,25 @@
+# Ignore build files
+/bin/
+/target/
+/build/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven
+/target/
+mvnw*
+.mvn/
+
+# Ignore application properties
+/src/main/resources/application.properties
+
+# Ignore OS files
+*.log
+*.tmp
+
+# Ignore metadata files
+.metadata/
+.lock
